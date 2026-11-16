@@ -20,7 +20,7 @@ Server Admin
 
 ![alt text](image.png)
  
-## 1.4. Prerequisites
+## 1.4 Prerequisites
  Roles in a company
 1.	Business Analyst 		-> Gathers end user requirements
 2.	Product Manager		-> Defines vision, goals & priorities
