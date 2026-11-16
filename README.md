@@ -17,9 +17,11 @@ Server Admin
 4.	Building: Developing
 5.	Testing: QA, server test
 6.	Deploy: Production, Customer
+
+![alt text](image.png)
  
 ## 1.4. Prerequisites
-### Roles in a company
+ Roles in a company
 1.	Business Analyst 		-> Gathers end user requirements
 2.	Product Manager		-> Defines vision, goals & priorities
 3.	Product Owner 		-> Manages backlog & makes action plan
